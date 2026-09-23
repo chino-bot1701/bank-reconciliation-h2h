@@ -6,7 +6,7 @@
 > Built at a real estate and media group in Mexico.
 > **Anonymized portfolio version — all data is synthetic.**
 
-![R](https://img.shields.io/badge/R-4.5-276DC3) ![Shiny](https://img.shields.io/badge/Shiny-app-4B8BBE) ![Snowflake](https://img.shields.io/badge/Snowflake-warehouse-29B5E8) ![License](https://img.shields.io/badge/license-MIT-green)
+![R](https://img.shields.io/badge/R-4.5-276DC3) ![Shiny](https://img.shields.io/badge/Shiny-app-4B8BBE) ![Snowflake](https://img.shields.io/badge/Snowflake-warehouse-29B5E8)
 
 ---
 
@@ -202,7 +202,3 @@ Every file is then checked by a separate verifier that fails the build on any kn
 real value, credential pattern or absolute path.
 
 The architecture, the matching logic and the engineering decisions are the real ones.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
